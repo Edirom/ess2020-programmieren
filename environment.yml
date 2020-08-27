@@ -1,3 +1,6 @@
+name: ess2020-programmieren
+channels:
+  - conda-forge
 dependencies:
   - python
   - rise
